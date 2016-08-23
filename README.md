@@ -1,3 +1,3 @@
-# ClothingForDocuSign
+# Clothing
 
-This is the code exercise for DocuSign
+This is my code example to show my ability to use unit test and dependency injection. 
